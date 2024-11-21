@@ -30,7 +30,7 @@ Aqui está a capa do episódio 1:
 
 Você pode ouvir o episódio 1 clicando no link abaixo:
 
-[Episódio 1 - GameDev (MP3)](audio/episodio_01.mp3)
+[Episódio 1 - GameDev (MP3)](audio/podcast_gamedev.mp3)
 
 ---
 

@@ -2,7 +2,7 @@
 
 ℹ️ **NOTA**: Este é o repositório do podcast **GameDev**, onde usei ferramentas de IA para gerar conteúdo de forma criativa e automatizada.
 
-Projeto focado em **desenvolvimento de jogos**, trazendo conteúdo voltado para iniciantes que querem entender a arte e a tecnologia por trás dos jogos. Utilizamos uma esteira de prompts para gerar as etapas do podcast, desde o roteiro até a capa e o áudio.
+Projeto focado em **desenvolvimento de jogos**, trazendo conteúdo voltado para iniciantes que querem entender a arte e a tecnologia por trás dos jogos. Foi utilizadp uma esteira de prompts para gerar as etapas do podcast, desde o roteiro até a capa e o áudio.
 
 ## 💻 Tecnologias utilizadas no projeto
 
